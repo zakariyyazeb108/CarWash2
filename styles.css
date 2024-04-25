@@ -179,6 +179,10 @@ header nav a:hover {
   cursor: pointer;
 }
 
+.alf {
+  padding-bottom: 10px;
+}
+
 /* Existing styles */
 
 /* Add responsive styles below */
